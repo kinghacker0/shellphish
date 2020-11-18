@@ -11,7 +11,7 @@ $ cd shellphish
 <h2>Usage</h2>
 $ bash shellphish.sh
 
-Now select your option then turn on hotspot and wait until ngrok generate link for you. I recommend you to use link shortner to send ngrok link.
+Now select phishing page and choice 2 option for ngrok then turn on hotspot and wait until ngrok generate link for you. I recommend you to use link shortner to send ngrok link.
 
 <h1>Video Tutorial:-</h1>
 
